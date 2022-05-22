@@ -31,7 +31,10 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="icons/js.png" alt="javascript" width="40" height="40"hspace="5"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"hspace="5"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="icons/ps.jpg" alt="photoshop" width="40" height="40"hspace="5"/> </a> </p>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="icons/ps.jpg" alt="photoshop" width="40" height="40"hspace="5"/> </a> 
+<a href="https://www.labcenter.com/" target="_blank" rel="noreferrer"> <img src="icons/proteus.png" alt="photoshop" height="40"hspace="5"/> </a> 
+<a href="https://www.sketchup.com/en" target="_blank" rel="noreferrer"> <img src="icons/sketchup.png" alt="photoshop" width="40" height="40"hspace="5"/> </a> 
+</p>
 <br><br>
 
 <h3 align="left">Using operating systems:</h3>
