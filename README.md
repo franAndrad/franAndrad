@@ -1,31 +1,41 @@
-### Hi, I'm Francisco👋
-<br>
-<p>🙍‍♂️ My name is Francisco Andrade, I am an Electronic Technician and an Electronic Engineering student.</p>
+<h1 align="center">Hi 👋, I'm Francisco Andrade</h1>
+<h3 align="center">A passionate developer from Argentina</h3>
 <br>
 
-### ⚡Technologies
-<hr>
-<p align="center">
-  <img src="icons/html5.png" hspace="10" width=35px" alt="html5">
-  <img src="icons/css3.png" hspace="10" width=35px" alt="html5">
-  <img src="icons/js.png" hspace="10" width=35px" alt="html5">
-  <img src="icons/c.png" hspace="10" width=35px" alt="html5">
-  <img src="icons/c++.png" hspace="10"width=35px" alt="html5">
-  <img src="icons/arduino.png" hspace="10"width=35px" alt="html5">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=franandrad&label=Profile%20views&color=0e75b6&style=flat" alt="franandrad" /> </p>
+
+
+- 👨‍🎓 I am currently studying electronic engineering at **UTN**
+
+- 🌱 I’m currently learning **JavaSricpt Native**
+
+- 📫 How to reach me **franciscoezequielandrade@gmail.com**
+
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/fran.andrade.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fran.andrade.94" height="30" width="25" hspace="5"/></a>
+<br><br>
+
 </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="icons/arduino.png" alt="arduino" width="30" height="30"hspace="5"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"hspace="5"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"hspace="5"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"hspace="5"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="icons/css3.png" alt="css3" width="30" height="30"hspace="5"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="icons/html5.png" alt="html5" width="30" height="30"hspace="5"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="icons/js.png" alt="javascript" width="30" height="30"hspace="5"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"hspace="5"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"hspace="5"/> </a> </p>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"hspace="5"/> </a> 
+<br>
+<br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=franandrad&show_icons=true&locale=en&layout=compact&theme=radical" alt="franandrad"/></p>
 
-<!--
-**franAndrad/franAndrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franandrad&show_icons=true&locale=en&theme=radical" alt="franandrad" /></p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...aaaaaaaaa
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franandrad&theme=radical" alt="franandrad" style="background-color:black;"/> </p>
