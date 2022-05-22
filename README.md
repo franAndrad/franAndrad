@@ -11,6 +11,7 @@
   <img src="icons/js.png" hspace="10" width=35px" alt="html5">
   <img src="icons/c.png" hspace="10" width=35px" alt="html5">
   <img src="icons/c++.png" hspace="10"width=35px" alt="html5">
+  <img src="icons/arduino.png" hspace="10"width=35px" alt="html5">
 </p>
 
 
