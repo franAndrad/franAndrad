@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Francisco Andrade</h1>
+<h1 align="center">Hi 🌎, I'm Francisco Andrade</h1>
 <br>
 
 <p align="center"> <img src="banner/circuit-electronic.png" alt="franandrad" height="200" width="200"/> </p>
