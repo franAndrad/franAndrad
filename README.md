@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Francisco Andrade</h1>
-<h3 align="center">A passionate developer from Argentina</h3>
 <br>
 
+<p align="center"> <img src="banner/circuit-electronic.png" alt="franandrad" height="200" width="200"/> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franandrad&label=Profile%20views&color=0e75b6&style=flat" alt="franandrad" /> </p>
-
-
-- 👨‍🎓 I’m an electronic technical
-
-- 👨‍🎓 I’m currently studying electronic engineering at **UTN**
 
 - 🌱 I’m currently learning **JavaSricpt Native**
 
