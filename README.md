@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franandrad&label=Profile%20views&color=0e75b6&style=flat" alt="franandrad" /> </p>
 
-- 🌱 I’m currently learning **node js**
+- 🌱 I’m currently learning **python**
 
 - 📫 How to reach me **franciscoezequielandrade@gmail.com**
 
