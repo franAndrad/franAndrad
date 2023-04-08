@@ -31,7 +31,7 @@
 <a href="https://www.labcenter.com/" target="_blank" rel="noreferrer"> <img src="icons/proteus.png" alt="proteus" height="40"hspace="5"/> </a> 
 <a href="https://www.sketchup.com/en" target="_blank" rel="noreferrer"> <img src="icons/sketchup.png" alt="sketchup" width="40" height="40"hspace="5"/> </a> 
 <a href="https://react-bootstrap.github.io/" target="_blank" rel="noreferrer"> <img src="icons/react.png" alt="react" width="40" height="40"hspace="5"/> </a> 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="icons/python.png" alt="react" width="40" height="40"hspace="5"/> </a> 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="icons/python.png" alt="python" width="40" height="40"hspace="5"/> </a> 
 </p>
 <br><br>
 
