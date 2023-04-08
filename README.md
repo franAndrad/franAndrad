@@ -18,9 +18,13 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="icons/arduino.png" alt="arduino" width="40" height="40"hspace="5"/> </a> 
+
+
+<a href="https://react-bootstrap.github.io/" target="_blank" rel="noreferrer"> <img src="icons/react.png" alt="react" width="40" height="40"hspace="5"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"hspace="5"/> </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="icons/python.png" alt="python" width="50" height="50"hspace="5"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"hspace="5"/> </a> 
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="icons/arduino.png" alt="arduino" width="40" height="40"hspace="5"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"hspace="5"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="icons/css3.png" alt="css3" width="40" height="40"hspace="5"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="icons/html5.png" alt="html5" width="40" height="40"hspace="5"/> </a> 
@@ -30,8 +34,8 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="icons/ps.jpg" alt="photoshop" width="40" height="40"hspace="5"/> </a> 
 <a href="https://www.labcenter.com/" target="_blank" rel="noreferrer"> <img src="icons/proteus.png" alt="proteus" height="40"hspace="5"/> </a> 
 <a href="https://www.sketchup.com/en" target="_blank" rel="noreferrer"> <img src="icons/sketchup.png" alt="sketchup" width="40" height="40"hspace="5"/> </a> 
-<a href="https://react-bootstrap.github.io/" target="_blank" rel="noreferrer"> <img src="icons/react.png" alt="react" width="40" height="40"hspace="5"/> </a> 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="icons/python.png" alt="python" width="40" height="40"hspace="5"/> </a> 
+
+
 </p>
 <br><br>
 
