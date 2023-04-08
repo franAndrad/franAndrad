@@ -23,6 +23,9 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="icons/css3.png" alt="css3" width="40" height="40"hspace="5"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="icons/html5.png" alt="html5" width="40" height="40"hspace="5"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="icons/js.png" alt="javascript" width="40" height="40"hspace="5"/> </a> 
+<a href="https://nodejs.org/es" target="_blank" rel="noreferrer"> <img src="icons/nodejs.png" alt="nodejs" width="50" height="50"hspace="5"/> </a> 
+<a href="https://expressjs.com/es/" target="_blank" rel="noreferrer"> <img src="icons/express.png" alt="express" width="50" height="50"hspace="5"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="icons/mongodb.png" alt="mongodb" width="50" height="50"hspace="5"/> </a> 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="icons/python.png" alt="python" width="50" height="50"hspace="5"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"hspace="5"/> </a> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="icons/arduino.png" alt="arduino" width="40" height="40"hspace="5"/> </a> 
