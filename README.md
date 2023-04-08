@@ -20,13 +20,13 @@
 <p align="left"> 
 <a href="https://react-bootstrap.github.io/" target="_blank" rel="noreferrer"> <img src="icons/react.png" alt="react" width="40" height="40"hspace="5"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"hspace="5"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="icons/css3.png" alt="css3" width="40" height="40"hspace="5"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="icons/html5.png" alt="html5" width="40" height="40"hspace="5"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="icons/js.png" alt="javascript" width="40" height="40"hspace="5"/> </a> 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="icons/python.png" alt="python" width="50" height="50"hspace="5"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"hspace="5"/> </a> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="icons/arduino.png" alt="arduino" width="40" height="40"hspace="5"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"hspace="5"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="icons/css3.png" alt="css3" width="40" height="40"hspace="5"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="icons/html5.png" alt="html5" width="40" height="40"hspace="5"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="icons/js.png" alt="javascript" width="40" height="40"hspace="5"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"hspace="5"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="icons/ps.jpg" alt="photoshop" width="40" height="40"hspace="5"/> </a> 
