@@ -18,8 +18,6 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-
-
 <a href="https://react-bootstrap.github.io/" target="_blank" rel="noreferrer"> <img src="icons/react.png" alt="react" width="40" height="40"hspace="5"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"hspace="5"/> </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="icons/python.png" alt="python" width="50" height="50"hspace="5"/> </a> 
@@ -34,8 +32,6 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="icons/ps.jpg" alt="photoshop" width="40" height="40"hspace="5"/> </a> 
 <a href="https://www.labcenter.com/" target="_blank" rel="noreferrer"> <img src="icons/proteus.png" alt="proteus" height="40"hspace="5"/> </a> 
 <a href="https://www.sketchup.com/en" target="_blank" rel="noreferrer"> <img src="icons/sketchup.png" alt="sketchup" width="40" height="40"hspace="5"/> </a> 
-
-
 </p>
 <br><br>
 
