@@ -35,6 +35,7 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="icons/ps.jpg" alt="photoshop" width="40" height="40"hspace="5"/> </a> 
 <a href="https://www.labcenter.com/" target="_blank" rel="noreferrer"> <img src="icons/proteus.png" alt="proteus" height="40"hspace="5"/> </a> 
 <a href="https://www.sketchup.com/en" target="_blank" rel="noreferrer"> <img src="icons/sketchup.png" alt="sketchup" width="40" height="40"hspace="5"/> </a> 
+  <a href="https://www.sketchup.com/en" target="_blank" rel="noreferrer"> <img src="icons/vim.png" alt="vim" width="40" height="40"hspace="5"/> </a> 
 </p>
 <br><br>
 
