@@ -33,10 +33,10 @@
     </text>
     <text x="80" y="110" class="code comment">    // Author: Francisco Andrade</text>
 
-    <text x="40" y="160" class="code">
-        <tspan class="kw">public static void</tspan> <tspan class="fn">main</tspan><tspan class="text">(</tspan><tspan class="typeS">String</tspan><tspan class="text">[] args) {</tspan>
+    <text x="60" y="160" class="code">
+        <tspan class="kw"> public static void</tspan> <tspan class="fn">main</tspan><tspan class="text">(</tspan><tspan class="typeS">String</tspan><tspan class="text">[] args) {</tspan>
     </text>
-    <text x="80" y="190" class="code">
+    <text x="120" y="190" class="code">
         <tspan class="typeS">System</tspan><tspan class="text">.</tspan><tspan class="type">out</tspan><tspan class="text">.</tspan><tspan class="type">println</tspan><tspan class="text">(</tspan><tspan class="string">"Hello, world!"</tspan><tspan class="text">);</tspan>
     </text>
     <text x="40" y="220" class="code">
