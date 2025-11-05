@@ -74,6 +74,64 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div style="
+  width: min(70vw, 850px);
+  margin: 20px auto;
+  border: 2px solid #1f1f1fff;
+  border-radius: 16px;
+  background-color: #000000ff;
+  font-family: 'JetBrains Mono', monospace;
+  color: #ffffff;
+  padding: clamp(12px, 2.5vw, 20px);
+  box-sizing: border-box;
+  text-align: center;
+">
+
+  <!-- Fila 1: Top Langs + Stats (stats sin include_all_commits / count_private) -->
+  <div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=franandrad&layout=compact&theme=radical&hide_border=true&border_radius=12&langs_count=8&card_width=400&cache_seconds=86400"
+      alt="Most Used Languages"
+      loading="lazy"
+      style="max-width:100%; height:auto;"
+    />
+
+  <img 
+      src="https://github-readme-stats.vercel.app/api?username=franandrad&show_icons=true&theme=radical&hide_border=true&border_radius=12&rank_icon=github&line_height=24&cache_seconds=86400"
+      alt="GitHub Stats"
+      loading="lazy"
+      style="max-width:100%; height:auto;"
+    />
+  </div>
+
+  <!-- Fila 2: Streak (endpoint estable) -->
+  <div style="margin-top: 20px;">
+    <img 
+      src="https://streak-stats.demolab.com?user=franandrad&theme=radical&hide_border=true&border_radius=12"
+      alt="GitHub Streak"
+      loading="lazy"
+      style="max-width:100%; height:auto;"
+    />
+  </div>
+
+  <!-- Fila 3: Trophies -->
+  <div style="margin-top: 20px;">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer" style="display:block;">
+      <img 
+        src="https://github-profile-trophy.vercel.app/?username=franandrad&theme=radical&no-frame=true&margin-w=10&column=7"
+        alt="GitHub Trophies"
+        loading="lazy"
+        style="max-width:100%; height:auto;"
+      />
+    </a>
+  </div>
+
+</div>
+
+---
+
 <p align="center">
   <i>⚡ "The only way to do great work is to love what you do" - Steve Jobs</i><br/>
   <sub>Logos stored locally or from official sources for reliability.</sub>
