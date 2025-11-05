@@ -20,8 +20,6 @@
 <a href="https://instagram.com/fran.andrade.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fran.andrade.94" height="40" width="30" hspace="5"/></a>
 <br><br>
 
----
-
 ## 💻 Programming & Backend
 
 ### 🧩 Languages & Tools
@@ -72,7 +70,6 @@
   <img src="./cards/linux-distributions-card.svg" alt="Linux Distributions" />
 </p>
 
----
 
 ## 📊 GitHub Stats
 
@@ -130,7 +127,6 @@
 
 </div>
 
----
 
 <p align="center">
   <i>⚡ "The only way to do great work is to love what you do" - Steve Jobs</i><br/>
