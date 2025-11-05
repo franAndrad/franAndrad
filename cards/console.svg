@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="635" height="320" viewBox="0 0 635 320" role="img">
+    <title>HelloWorld.java</title>
+    <style>
+    .code { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 16px; white-space: pre; }
+    .kw { fill: #a77549ff; }   /* palabras clave */
+    .type { fill: #e5c07b; }   /* tipos */
+    .fn { fill: #61afef; }     /* funciones */
+    .comment { fill: #5c6370; }/* comentarios */
+    .string { fill: #98c379; } /* strings */
+    .id { fill: #e06c75; }     /* identificadores */
+    .text { fill: #abb2bf; }   /* texto normal */
+    .typeS  { fill: #9876aaff; } /* tipos personalizados */
+    </style>
+
+    <!-- Fondo -->
+    <defs>
+        <linearGradient id="bg-gloss" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0" stop-color="#0b0b0b"/>
+            <stop offset=".5" stop-color="#000"/>
+            <stop offset="1" stop-color="#0b0b0b"/>
+        </linearGradient>
+        <filter id="soft-shadow" x="-20%" y="-20%" width="140%" height="160%">
+            <feDropShadow dx="0" dy="1.2" stdDeviation="1.4" flood-color="#000" flood-opacity=".45"/>
+        </filter>
+    </defs>
+
+    <!-- Contenedor corregido: respeta el ancho (márgenes de 8px) -->
+    <rect x="8" y="8" rx="16" ry="16" width="619" height="304" fill="url(#bg-gloss)" stroke="#1f1f1f" stroke-width="2"/>
+
+    <!-- Código -->
+    <text x="40" y="80" class="code">
+        <tspan class="kw">public class</tspan> <tspan class="type">HelloWorld</tspan> <tspan class="text">{</tspan>
+    </text>
+    <text x="80" y="110" class="code comment">    // Author: Francisco Andrade</text>
+
+    <text x="40" y="160" class="code">
+        <tspan class="kw">public static void</tspan> <tspan class="fn">main</tspan><tspan class="text">(</tspan><tspan class="typeS">String</tspan><tspan class="text">[] args) {</tspan>
+    </text>
+    <text x="80" y="190" class="code">
+        <tspan class="typeS">System</tspan><tspan class="text">.</tspan><tspan class="type">out</tspan><tspan class="text">.</tspan><tspan class="type">println</tspan><tspan class="text">(</tspan><tspan class="string">"Hello, world!"</tspan><tspan class="text">);</tspan>
+    </text>
+    <text x="40" y="220" class="code">
+        <tspan class="text">    }</tspan>
+    </text>
+    <text x="40" y="250" class="code">
+        <tspan class="text">}</tspan>
+    </text>
+</svg>

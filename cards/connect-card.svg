@@ -1,0 +1,62 @@
+<svg width="600" height="140" viewBox="0 0 600 140"
+    xmlns="http://www.w3.org/2000/svg">
+    <!-- Fondo -->
+    <rect x="8" y="8" rx="16" ry="16" width="584" height="124" fill="#000000" stroke="#1f1f1f" stroke-width="2"/>
+
+    <!-- GMAIL (40x40 @ x=220,y=28)  viewBox 32 => scale 40/32 = 1.25 -->
+    <g transform="translate(75,28) scale(0.8)">
+<a href="https://instagram.com/fran.andrade.94" target="_blank" rel="noreferrer">        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="64" height="64">
+            <path d="M29.986 27.715H2.008C.915 27.715 0 26.85 0 25.733V6.376A2.01 2.01 0 0 1 2.008 4.37h27.978c1.093 0 2.008.9 2.008 2.008v19.33c-.025 1.144-.915 2.008-2.008 2.008z" fill="#f2f2f2"/>
+            <path d="M4 27.715l11.97-8.76.076-.508L3.7 9.578l-.025 17.705z" opacity=".1" fill="#221f1f"/>
+            <g fill="#d44c3d">
+                <path d="M2.008 27.715C.9 27.715 0 26.85 0 25.733V6.35c0-1.118.9-1.32 2.008-1.32s2.008.23 2.008 1.32v21.364z"/>
+                <path d="M2.008 5.334c1.423 0 1.703.432 1.703 1.016v21.084H2.008c-.94 0-1.703-.762-1.703-1.703V6.35c-.025-.6.28-1.016 1.703-1.016zm0-.28C.9 5.055 0 5.283 0 6.35v19.356a1.98 1.98 0 0 0 2.008 2.008h2.008V6.35C4 5.258 3.126 5.055 2.008 5.055zm27.978.28c1.296 0 1.703.254 1.703.966v19.458c0 .94-.762 1.703-1.703 1.703h-1.703V6.3c-.025-.737.407-.966 1.703-.966zm0-.28c-1.118 0-2.008.152-2.008 1.245v21.44h2.008c1.118 0 2.008-.9 2.008-2.008V6.274c-.025-1.093-.915-1.22-2.008-1.22z"/>
+                <path d="M29.986 27.715h-2.008V6.3c0-1.118.9-1.245 2.008-1.245s2.008.152 2.008 1.245v19.458a2 2 0 0 1-2.008 1.957z"/>
+            </g>
+            <path d="M21.422 27.715L.178 7.2l1.118.457 14.8 10.647L31.993 6.63v19.128a1.99 1.99 0 0 1-2.008 1.982z" opacity=".08" fill="#221f1f"/>
+            <g fill="#d44c3d">
+                <path d="M15.96 18.98L.864 8.028c-.9-.66-1.144-1.93-.483-2.82s1.93-1.093 2.846-.432l12.757 9.275L28.817 4.65c.9-.66 2.135-.457 2.795.457.66.9.457 2.135-.457 2.795z"/>
+                <path d="M29.986 4.572c.534 0 1.067.254 1.398.712.534.762.38 1.83-.38 2.4L15.96 18.625 1.042 7.8C.28 7.24.076 6.147.6 5.4c.305-.457.84-.737 1.423-.737.38 0 .737.102 1.016.33l12.73 9.25.178.102.178-.102 12.82-9.393c.33-.178.66-.28 1.042-.28zm0-.305c-.407 0-.84.102-1.17.38L15.984 14.05 3.202 4.75c-.33-.254-.762-.38-1.194-.38-.635.025-1.27.305-1.652.84-.635.9-.38 2.135.508 2.795L15.96 18.98 31.155 7.9a2.02 2.02 0 0 0 .457-2.795c-.407-.534-1.016-.84-1.626-.84z"/>
+            </g>
+        </svg>
+        </a>
+    </g>
+
+    <!-- INSTAGRAM (40x40 @ x=340,y=28)  viewBox 512 => scale 40/512 = 0.078125 -->
+    <g transform="translate(407,28) scale(0.3)">
+        <a href="mailto:fran.eze.andrad@gmail.com" target="_blank" rel="noreferrer">  
+        <svg version="1.1" id="Capa_1"
+            xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+            <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-46.0041" y1="634.1208" x2="-32.9334" y2="647.1917" gradientTransform="matrix(32 0 0 -32 1519 20757)">
+                <stop offset="0" style="stop-color:#FFC107"/>
+                <stop offset="0.507" style="stop-color:#F44336"/>
+                <stop offset="0.99" style="stop-color:#9C27B0"/>
+            </linearGradient>
+            <path style="fill:url(#SVGID_1_);" d="M352,0H160C71.648,0,0,71.648,0,160v192c0,88.352,71.648,160,160,160h192
+	c88.352,0,160-71.648,160-160V160C512,71.648,440.352,0,352,0z M464,352c0,61.76-50.24,112-112,112H160c-61.76,0-112-50.24-112-112
+	V160C48,98.24,98.24,48,160,48h192c61.76,0,112,50.24,112,112V352z"/>
+            <linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-42.2971" y1="637.8279" x2="-36.6404" y2="643.4846" gradientTransform="matrix(32 0 0 -32 1519 20757)">
+                <stop offset="0" style="stop-color:#FFC107"/>
+                <stop offset="0.507" style="stop-color:#F44336"/>
+                <stop offset="0.99" style="stop-color:#9C27B0"/>
+            </linearGradient>
+            <path style="fill:url(#SVGID_2_);" d="M256,128c-70.688,0-128,57.312-128,128s57.312,128,128,128s128-57.312,128-128
+	S326.688,128,256,128z M256,336c-44.096,0-80-35.904-80-80c0-44.128,35.904-80,80-80s80,35.872,80,80
+	C336,300.096,300.096,336,256,336z"/>
+            <linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-35.5456" y1="644.5793" x2="-34.7919" y2="645.3331" gradientTransform="matrix(32 0 0 -32 1519 20757)">
+                <stop offset="0" style="stop-color:#FFC107"/>
+                <stop offset="0.507" style="stop-color:#F44336"/>
+                <stop offset="0.99" style="stop-color:#9C27B0"/>
+            </linearGradient>
+            <circle style="fill:url(#SVGID_3_);" cx="393.6" cy="118.4" r="17.056"/>
+        </svg>
+        </a>
+        </g>
+
+    <!-- Etiquetas -->
+    <g font-size="13" font-family="JetBrains Mono, ui-monospace, monospace" fill="#9aa0a6" text-anchor="middle">
+        <text x="100" y="92">Gmail</text>
+        <text x="500" y="92">Instagram</text>
+    </g>
+</svg>
