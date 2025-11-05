@@ -62,15 +62,9 @@
 ## 💻 Programming & Backend
 
 ### 🧩 Languages & Tools
-<div style="width:min(70vw,800px);margin:20px auto;border:2px solid #1f1f1fff;border-radius:16px;background:#000;padding:16px;box-sizing:border-box;">
-  <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:16px;text-align:center;">
-    <div><a href="https://www.java.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"></a><p style="color:#9aa0a6;margin-top:6px;">Java</p></div>
-    <div><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"></a><p style="color:#9aa0a6;margin-top:6px;">JavaScript</p></div>
-    <div><a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"></a><p style="color:#9aa0a6;margin-top:6px;">Python</p></div>
-    <div><a href="https://www.cprogramming.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"></a><p style="color:#9aa0a6;margin-top:6px;">C</p></div>
-    <div><a href="https://cplusplus.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"></a><p style="color:#9aa0a6;margin-top:6px;">C++</p></div>
-  </div>
-</div>
+
+![Languages](./cards/languaje-card.svg)
+
 
 ### ⚙️ Backend & Frameworks
 <div style="width:min(70vw,800px);margin:20px auto;border:2px solid #1f1f1fff;border-radius:16px;background:#000;padding:16px;box-sizing:border-box;">

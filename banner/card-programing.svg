@@ -1,0 +1,21 @@
+<svg width="600" height="140" viewBox="0 0 600 140" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background card -->
+  <rect x="8" y="8" rx="16" ry="16" width="584" height="124"
+        fill="#000000" stroke="#1f1f1f" stroke-width="2"/>
+  <!-- Icons -->
+  <image x="60" y="28" width="40" height="40" href="../icons/programing/java-original.svg" />
+  <image x="160" y="28" width="40" height="40" href="../icons/programing/javascript-original.svg" />
+  <image x="260" y="28" width="40" height="40" href="../icons/programing/python-original.svg" />
+  <image x="360" y="28" width="40" height="40" href="../icons/programing/c-original.svg" />
+  <image x="460" y="28" width="40" height="40" href="../icons/programing/cplusplus-original.svg" />
+ />
+  <!-- Labels -->
+  <g font-size="13" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Noto Sans', 'Helvetica Neue', Arial, sans-serif"
+     fill="#9aa0a6" text-anchor="middle">
+    <text x="80"  y="92">Java</text>
+    <text x="180" y="92">JavaScript</text>
+    <text x="280" y="92">Python</text>
+    <text x="380" y="92">C</text>
+    <text x="480" y="92">C++</text>
+  </g>
+</svg>
