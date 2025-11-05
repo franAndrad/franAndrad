@@ -17,7 +17,7 @@
 ## 🌐 Connect with me
 
 <p align="left">
-<a href="https://instagram.com/fran.andrade.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fran.andrade.94" height="40" width="30" hspace="5"/></a>
+<a href="https://instagram.com/fran.andrade.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fran.andrade.94" height="40" width="30" hspace="50"/></a>
 <br><br>
 
 ## 💻 Programming & Backend
