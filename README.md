@@ -1,10 +1,14 @@
 <h1 align="center">Hi 🌎, I'm Francisco Andrade</h1>
 
-<h3 align="center">Full Stack Developer | Electronics Enthusiast | Designer</h3>
+<h3 align="center">
+<span style="font-size: 1.2em;">🎓 Systems Engineering Student</span><br><br>
+  Full Stack Developer | Electronics Enthusiast | Designer<br>
+</h3>
+
 
 <!-- Code card (imagen local para respetar colores exactamente) -->
 <p align="center">
-  <img src="./cards/console.svg" alt="Console code" />
+  <img src="./cards/console2.png" alt="Console code" />
 </p>
 
 ## 👨‍💻 About Me
@@ -17,7 +21,7 @@
 ## 🌐 Connect with me
 
 <p align="left">
-<a href="https://instagram.com/fran.andrade.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fran.andrade.94" height="40" width="30" hspace="50"/></a>
+<a href="https://instagram.com/fran.andrade.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.png" alt="fran.andrade.94" height="40" width="30" hspace="50"/></a>
 <br><br>
 
 ## 💻 Programming & Backend
@@ -49,25 +53,25 @@
 ## 🎨 Frontend & Web Design
 
 <p align="center">
-  <img src="./cards/frontend-web-design-card.svg" alt="Frontend & Web Design" />
+  <img src="./cards/frontend-web-design-card.png" alt="Frontend & Web Design" />
 </p>
 
 ## ⚡ Electronics & Hardware
 
 <p align="center">
-  <img src="./cards/electronic-hardware-card.svg" alt="Electronics & Hardware" />
+  <img src="./cards/electronic-hardware-card.png" alt="Electronics & Hardware" />
 </p>
 
 ## 💻 Operating Systems
 
 <p align="center">
-  <img src="./cards/operating-systems-card.svg" alt="Operating Systems" />
+  <img src="./cards/operating-systems-card.png" alt="Operating Systems" />
 </p>
 
 <h3 align="center">🐧 Linux Distributions</h3>
 
 <p align="center">
-  <img src="./cards/linux-distributions-card.svg" alt="Linux Distributions" />
+  <img src="./cards/linux-distributions-card.png" alt="Linux Distributions" />
 </p>
 
 
