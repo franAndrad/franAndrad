@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1270" height="640" viewBox="0 0 1270 640" role="img">
+    <title>HelloWorld.java</title>
+    <style>
+    .code { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 32px; }
+    .kw { fill: #a77549; }
+    .type { fill: #e5c07b; }
+    .fn { fill: #61afef; }
+    .comment { fill: #5c6370; }
+    .string { fill: #98c379; }
+    .id { fill: #e06c75; }
+    .text { fill: #abb2bf; }
+    .typeS  { fill: #9876aa; }
+    </style>
+
+    <defs>
+        <linearGradient id="bg-gloss" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0" stop-color="#0b0b0b"/>
+            <stop offset=".5" stop-color="#000"/>
+            <stop offset="1" stop-color="#0b0b0b"/>
+        </linearGradient>
+    </defs>
+
+    <rect x="8" y="8" rx="32" ry="32" width="1254" height="624" fill="url(#bg-gloss)" stroke="#1f1f1f" stroke-width="4"/>
+
+    <!-- Código -->
+    <text x="40" y="170" class="code" xml:space="preserve">
+        <tspan class="kw">public class</tspan> <tspan class="type">HelloWorld</tspan> <tspan class="text">{</tspan>
+    </text>
+
+    <text x="65" y="230" class="code comment" xml:space="preserve">
+        <tspan>// Author: Francisco Andrade</tspan>
+    </text>
+
+    <text x="60" y="290" class="code" xml:space="preserve">
+        <tspan class="kw"> public static void</tspan> <tspan class="fn">main</tspan> <tspan class="text">(</tspan><tspan class="typeS">String</tspan><tspan class="text">[] args) {</tspan>
+    </text>
+
+    <text x="120" y="360" class="code" xml:space="preserve">
+        <tspan class="typeS">System</tspan><tspan class="text">.</tspan><tspan class="type">out</tspan><tspan class="text">.</tspan><tspan class="type">println</tspan><tspan class="text">(</tspan><tspan class="string">"Hello, world!"</tspan><tspan class="text">);</tspan>
+    </text>
+
+    <text x="40" y="430" class="code" xml:space="preserve">
+        <tspan class="text">    }</tspan>
+    </text>
+
+    <text x="40" y="490" class="code" xml:space="preserve">
+        <tspan class="text">}</tspan>
+    </text>
+</svg>
