@@ -8,7 +8,7 @@
 
 <!-- Code card (imagen local para respetar colores exactamente) -->
 <p align="center">
-  <img src="./cards/console2.png" alt="Console code" />
+  <img src="./cards/console.svg" alt="Console code" />
 </p>
 
 ## 👨‍💻 About Me
@@ -137,3 +137,4 @@
   <i>⚡ "The only way to do great work is to love what you do" - Steve Jobs</i><br/>
   <sub>Logos stored locally or from official sources for reliability.</sub>
 </p>
+
